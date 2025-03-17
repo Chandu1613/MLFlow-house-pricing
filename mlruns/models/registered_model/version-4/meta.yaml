@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1742225969950
+current_stage: None
+description: null
+last_updated_timestamp: 1742225969950
+name: registered_model
+run_id: af2d9dc057e448cd82bb1bfc5527f202
+run_link: null
+source: file:///C:/Users/jagad/OneDrive/Desktop/Projects/MLFlow-house-pricing/mlruns/954516184317111418/af2d9dc057e448cd82bb1bfc5527f202/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///C:/Users/jagad/OneDrive/Desktop/Projects/MLFlow-house-pricing/mlruns/954516184317111418/af2d9dc057e448cd82bb1bfc5527f202/artifacts/model
+user_id: null
+version: 4
