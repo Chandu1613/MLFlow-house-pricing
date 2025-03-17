@@ -1,6 +1,10 @@
-from package.feature.data_processing import print_text_from_feature
-from package.ml_training.train import print_something_from_train
+from ml_package.package.feature.data_processing import get_feature_dataframe
 
-if __name__ == '__main__':
-    print_text_from_feature('Hello from feature')
-    print_something_from_train('Hello from train')
+if __name__ == "__main__":
+    experiment_name = "house_pricing_classifier"
+    run_name = "training_classifier"
+    model_name = "registered_model"
+    artifact_path = "model"
+
+    df = get_feature_dataframe()
+    print(df.head())
