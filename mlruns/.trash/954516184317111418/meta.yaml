@@ -1,0 +1,7 @@
+artifact_location: file:///C:/Users/jagad/OneDrive/Desktop/Projects/MLFlow-house-pricing/mlruns/954516184317111418
+creation_time: 1742223803873
+experiment_id: '954516184317111418'
+last_update_time: 1742622769298
+lifecycle_stage: deleted
+name: house_pricing_regressor
+tags: {}

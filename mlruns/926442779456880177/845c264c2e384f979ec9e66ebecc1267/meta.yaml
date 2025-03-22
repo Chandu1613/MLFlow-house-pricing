@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jagad/OneDrive/Desktop/Projects/MLFlow-house-pricing/mlruns/926442779456880177/845c264c2e384f979ec9e66ebecc1267/artifacts
+end_time: 1742622898094
+entry_point_name: ''
+experiment_id: '926442779456880177'
+lifecycle_stage: active
+run_id: 845c264c2e384f979ec9e66ebecc1267
+run_name: training
+run_uuid: 845c264c2e384f979ec9e66ebecc1267
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742622883786
+status: 3
+tags: []
+user_id: jagad

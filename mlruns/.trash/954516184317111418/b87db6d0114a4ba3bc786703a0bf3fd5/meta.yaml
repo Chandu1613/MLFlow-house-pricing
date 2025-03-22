@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/jagad/OneDrive/Desktop/Projects/MLFlow-house-pricing/mlruns/954516184317111418/b87db6d0114a4ba3bc786703a0bf3fd5/artifacts
+deleted_time: 1742225529090
+end_time: 1742225436072
+entry_point_name: ''
+experiment_id: '954516184317111418'
+lifecycle_stage: deleted
+run_id: b87db6d0114a4ba3bc786703a0bf3fd5
+run_name: training_classifier
+run_uuid: b87db6d0114a4ba3bc786703a0bf3fd5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742225426351
+status: 3
+tags: []
+user_id: jagad
